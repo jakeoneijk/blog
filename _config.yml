@@ -19,6 +19,7 @@ locale                   : "en-US"
 title                    : "JakeOne's Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
+#https://mmistakes.github.io/minimal-mistakes/
 name                     : "JaeKwon"
 description              : "JakeOne's Blog"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -93,7 +94,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "JaeKwon"
+  name             : "JaeKwon Im"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Researcher & Developer" #"I am an **amazing** person."
   location         : "Daejeon , South Korea"
